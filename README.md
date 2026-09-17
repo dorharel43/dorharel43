@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Dor 👋
 
-<!--
-**dorharel43/dorharel43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems student at Yezreel Valley College, currently starting my third year.
+I like taking a problem I actually have and building the software that solves it.
 
-Here are some ideas to get you started:
+**Looking for a student developer position.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 What I'm working on
+
+**[MindSync](https://github.com/dorharel43/MindSync)** — an AI study assistant for students.
+It reads your own course material, turns it into tasks and recall questions, and measures
+the gap between how confident you feel and how much you actually remember.
+
+Built as an Electron desktop client with an [Express + MongoDB API](https://github.com/dorharel43/MindSync-Server),
+Google Gemini for AI with a local Ollama fallback, JWT authentication and per-user data isolation.
+
+### 🛠️ Tech I work with
+
+**Languages:** JavaScript · Java · Python
+**Backend:** Node.js · Express · MongoDB · REST APIs · JWT
+**Frontend:** Electron · HTML · CSS
+**Tools:** Git · MongoDB Atlas · Render
+
+### 🌱 Currently learning
+
+Application security, API design, and how to make AI features reliable enough to trust.
+
+ 📫 Get in touch
+
+dorharelwork@gmail.com
