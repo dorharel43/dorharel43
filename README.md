@@ -1,4 +1,4 @@
-# Hi, I'm Dor 👋
+# Hi, I'm Dor 
 
 Information Systems student at Yezreel Valley College, currently starting my third year.
 I like taking a problem I actually have and building the software that solves it.
@@ -21,10 +21,10 @@ Google Gemini for AI with a local Ollama fallback, JWT authentication and per-us
 **Frontend:** Electron · HTML · CSS
 **Tools:** Git · MongoDB Atlas · Render
 
-### 🌱 Currently learning
+ Currently learning
 
 Application security, API design, and how to make AI features reliable enough to trust.
 
- 📫 Get in touch
+  Get in touch
 
 dorharelwork@gmail.com
