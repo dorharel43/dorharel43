@@ -12,7 +12,7 @@ It reads your own course material, turns it into tasks and recall questions, and
 the gap between how confident you feel and how much you actually remember.
 
 Built as an Electron desktop client with an [Express + MongoDB API](https://github.com/dorharel43/MindSync-Server),
-Google Gemini for AI with a local Ollama fallback, JWT authentication and per-user data isolation.
+Google Gemini for AI , JWT authentication and per-user data isolation.
 
  Tech I work with:
 
